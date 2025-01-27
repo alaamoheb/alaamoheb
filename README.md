@@ -1,7 +1,7 @@
 ### Hi, I'm Alaa!
 
 - I'm a Senior Computer Science Engineering student at Egypt Japan University of Science and Technology.
-- I'm passionate about Machine Learning, Deep Learning, and Data Science.
+- I'm passionate about AI, and Data Science.
 
 
 
